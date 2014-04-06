@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Shader\MakeLine.shader">
+    <Files>
+      <File FileName="Assets\Scripts\MicInput.cs" Line="25" Column="40" />
+      <File FileName="Assets\Editor\MicEditor.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MakeLineFromMesh.cs" Line="32" Column="3" />
+      <File FileName="Assets\Scripts\CameraController.cs" Line="22" Column="2" />
+      <File FileName="Assets\Scripts\MeshDeformer.cs" Line="18" Column="1" />
+      <File FileName="Assets\Shader\MakeLine.shader" Line="32" Column="39" />
+      <File FileName="Assets\Shader\Transform.cginc" Line="17" Column="54" />
+      <File FileName="Assets\UnityMidiReceiver\MidiReceiver.cs" Line="43" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
